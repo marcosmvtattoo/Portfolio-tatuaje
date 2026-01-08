@@ -30,7 +30,7 @@ export const Plastica = () => {
           
           <div className="mt-10 lg:ml-10">
             <img 
-            src="/public/imagenes/Imagen pagina web-28.jpg"
+            src="/Portfolio-tatuaje/imagenes/Imagen pagina web-28.jpg"
             className="w-70 mb-10 md:w-100 border border-black "
             />
           </div>
@@ -62,7 +62,7 @@ export const Plastica = () => {
 
           <div className="mb-10 lg:mr-10">
             <img 
-            src="/public/imagenes/Imagen pagina web-19.jpg"
+            src="/Portfolio-tatuaje/imagenes/Imagen pagina web-19.jpg"
             className="w-70 md:w-100 border border-black "
             /> 
           </div>

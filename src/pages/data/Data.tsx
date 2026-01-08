@@ -25,7 +25,7 @@ export const Data = () => {
           
           <div id="0" className="mt-10 lg:ml-10">
             <img 
-            src="/public/imagenes/Imagen pagina web-30.jpg"
+            src="/Portfolio-tatuaje/imagenes/Imagen pagina web-30.jpg"
             className="w-70 mb-10 md:w-100 rounded-3xl"
             />
           </div>
@@ -46,7 +46,7 @@ export const Data = () => {
           
           <div id="1" className="mt-10 lg:ml-10">
             <img 
-            src="/public/imagenes/Imagen pagina web-07.jpg"
+            src="/Portfolio-tatuaje/imagenes/Imagen pagina web-07.jpg"
             className="w-70 mb-10 md:w-100 rounded-3xl"
             />
           </div>

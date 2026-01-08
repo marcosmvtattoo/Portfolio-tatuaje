@@ -7,7 +7,7 @@ import { Contacto, Data, Experiencia, Home, Informacion, Obras, Plastica, Sobrem
 export const AppRouter = () => {
 
   return (
-    <BrowserRouter> 
+    <BrowserRouter basename="/Portfolio-tatuaje/"> 
       <Routes>
         <Route path="/" element={ <Home />} />
         <Route path="/obras" element={ <Obras />} />

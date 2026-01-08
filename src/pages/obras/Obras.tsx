@@ -31,7 +31,7 @@ export const Obras = () => {
               >
                 <CardContent className=" flex flex-col items-center justify-center gap-1 h-full px-0">
                   <img 
-                  src="/public/imagenes/Imagen pagina web-28.jpg"
+                  src="/Portfolio-tatuaje/imagenes/Imagen pagina web-28.jpg"
                   className="w-48 h-42 object-cover object-center border border-black rounded-lg"/>
                   <h2 className="font-medium text-lg">Obra plástica</h2>
                 </CardContent>
@@ -42,7 +42,7 @@ export const Obras = () => {
                 onClick={() => navigate('/obra/tatuaje')}
                 >
                   <img 
-                  src="public/imagenes/Imagen pagina web-18.jpg"
+                  src="/Portfolio-tatuaje/imagenes/Imagen pagina web-18.jpg"
                   className="w-48 h-42 object-cover object-center border border-black rounded-lg"/>
                   <h2 className="font-medium text-lg">Tatuajes</h2>
                 </CardContent>

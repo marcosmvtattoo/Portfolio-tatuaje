@@ -28,7 +28,7 @@ export const Informacion = () => {
                 
                 <div className="hidden md:block mt-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-22.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-22.jpg"
                     className="w-80 rounded-3xl"
                     /> 
                 </div>

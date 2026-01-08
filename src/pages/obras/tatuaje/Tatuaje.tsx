@@ -32,7 +32,7 @@ export const Tatuaje = () => {
                 
                 <div className="mt-10 lg:ml-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-02.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-02.jpg"
                     className="w-60 mb-10 md:w-80 border border-black "
                     />
                 </div>
@@ -74,7 +74,7 @@ export const Tatuaje = () => {
 
                 <div className="mb-10 lg:mr-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-05.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-05.jpg"
                     className="w-60 md:w-80 border border-black "
                     /> 
                 </div>
@@ -84,7 +84,7 @@ export const Tatuaje = () => {
                 
                 <div className="lg:ml-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-12.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-12.jpg"
                     className="w-60 mb-10 md:w-80 border border-black "
                     />
                 </div>
@@ -117,7 +117,7 @@ export const Tatuaje = () => {
 
                 <div className="mb-10 lg:mr-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-16.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-16.jpg"
                     className="w-60 md:w-80 border border-black "
                     /> 
                 </div>
@@ -127,7 +127,7 @@ export const Tatuaje = () => {
                 
                 <div className=" lg:ml-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-23.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-23.jpg"
                     className="w-60 mb-10 md:w-80 border border-black"
                     />
                 </div>
@@ -159,7 +159,7 @@ export const Tatuaje = () => {
 
                 <div className="mb-10 lg:mr-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-24.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-24.jpg"
                     className="w-60 md:w-80 border border-black "
                     /> 
                 </div>
@@ -169,7 +169,7 @@ export const Tatuaje = () => {
                 
                 <div className=" lg:ml-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-15.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-15.jpg"
                     className="w-60 mb-10 md:w-80 border border-black"
                     />
                 </div>
@@ -207,7 +207,7 @@ export const Tatuaje = () => {
 
                 <div className="mb-10 lg:mr-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-29.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-29.jpg"
                     className="w-60 md:w-80 border border-black "
                     /> 
                 </div>

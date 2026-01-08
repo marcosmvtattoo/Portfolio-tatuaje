@@ -58,13 +58,13 @@ export const Home = () => {
 
           <div className="contacto flex gap-5 justify-center" style={{height: '350px'}}>
             <img 
-             src="/public/imagenes/Imagen pagina web-07.jpg"  
+             src="/Portfolio-tatuaje/imagenes/Imagen pagina web-07.jpg"  
              className="mt-3 mb-3 h-80 rounded-3xl"
              onClick={() => navigate('/data/Data/1')}
             />
 
             <img 
-             src="/public/imagenes/Imagen pagina web-30.jpg"  
+             src="/Portfolio-tatuaje/imagenes/Imagen pagina web-30.jpg"  
              className="hidden md:block mt-3 mb-3 h-80 rounded-3xl"
              onClick={() => navigate(`/data/Data/0`)}
             />

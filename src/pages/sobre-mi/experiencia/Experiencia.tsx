@@ -44,7 +44,7 @@ export const Experiencia = () => {
 
                 <div className="hidden md:block mt-10">
                     <img 
-                    src="/public/imagenes/Imagen pagina web-21.jpg"
+                    src="/Portfolio-tatuaje/imagenes/Imagen pagina web-21.jpg"
                     className="w-80 rounded-3xl"
                     /> 
                 </div>
