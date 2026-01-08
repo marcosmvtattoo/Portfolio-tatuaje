@@ -1,0 +1,35 @@
+
+/* .experiencia-1 {
+    max-width: 510px;
+    margin: 0 auto;
+    padding: 4rem 0;
+    
+} */
+
+.formacion-1 > h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    height: 3.3rem;
+    font-weight: 600;
+    
+}
+
+.formacion-2 > h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    height: 3.3rem;
+    font-weight: 600;
+}
+
+.formacion-3 > h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    height: 3.3rem;
+    font-weight: 600;
+}
+
+.texto {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+    
+}

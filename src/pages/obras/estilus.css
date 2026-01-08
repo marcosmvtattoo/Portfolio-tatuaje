@@ -1,0 +1,21 @@
+@font-face {
+    font-family:portada;
+    src: url("../../../public/fonts/Tattoo\ Shop.otf");
+}
+
+
+
+
+.obra > h1 {
+    position: absolute;
+    color: rgb(236, 236, 236);
+    pointer-events: none;
+    font-family: portada;
+}
+
+@media(min-width: 768px ) {
+    .titulo-Cn > p {
+        display: block;
+    }
+
+}

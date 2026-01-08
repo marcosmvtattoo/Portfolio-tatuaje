@@ -1,0 +1,63 @@
+@font-face {
+    font-family:portada;
+    src: url("../../../public/fonts/Tattoo\ Shop.otf");
+}
+
+
+.titulo-Cn > h1 {
+    position: absolute;
+    top: 0.2%;
+    left: 0.7%;
+    color: rgb(238, 236, 236);
+    width: 100%;
+    text-align: center;
+    pointer-events: none;
+    font-family: portada;
+}
+
+.contacto > p {
+    position: absolute;
+    color: rgb(238, 236, 236);
+    pointer-events: none;
+    font-family: portada;
+    margin: 0 20px;
+}
+
+
+.titulo-Cn-img {
+    background-size: 100% 100%;
+    background-image: url("../../../public/imagenes/Imagen\ pagina\ web-07.jpg");
+    min-height: 100vh;
+    background-position: center center;
+    aspect-ratio: 8/5;
+    width: 100%;
+    height: auto;
+  
+}
+
+.contacto {
+    background-color: rgb(69, 69, 69);
+    background-size: 100% 100%;
+    
+}
+
+
+.calendario {
+    margin: 100px 50px;
+}
+
+.mapa {
+    margin: 100px 0;
+}
+
+.formulario {
+    margin: 100px 0;
+}
+
+
+@media(min-width: 768px ) {
+    .titulo-Cn > p {
+        display: block;
+    }
+
+}
